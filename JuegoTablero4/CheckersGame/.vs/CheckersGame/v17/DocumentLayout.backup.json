@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119390D3-EBF9-4FE0-A3E3-240CC32AD100}|CheckersGame\\CheckersGame.csproj|C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\checkersgame\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119390D3-EBF9-4FE0-A3E3-240CC32AD100}|CheckersGame\\CheckersGame.csproj|solutionrelative:checkersgame\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119390D3-EBF9-4FE0-A3E3-240CC32AD100}|CheckersGame\\CheckersGame.csproj|c:\\users\\usuario\\desktop\\juegotablero4\\checkersgame\\checkersgame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119390D3-EBF9-4FE0-A3E3-240CC32AD100}|CheckersGame\\CheckersGame.csproj|solutionrelative:checkersgame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119390D3-EBF9-4FE0-A3E3-240CC32AD100}|CheckersGame\\CheckersGame.csproj|C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\checkersgame\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{119390D3-EBF9-4FE0-A3E3-240CC32AD100}|CheckersGame\\CheckersGame.csproj|solutionrelative:checkersgame\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119390D3-EBF9-4FE0-A3E3-240CC32AD100}|CheckersGame\\CheckersGame.csproj|C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\checkersgame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{119390D3-EBF9-4FE0-A3E3-240CC32AD100}|CheckersGame\\CheckersGame.csproj|solutionrelative:checkersgame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\CheckersGame\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "CheckersGame\\WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\CheckersGame\\WelcomeForm.cs",
+              "RelativeToolTip": "CheckersGame\\WelcomeForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:57:06.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WelcomeForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\CheckersGame\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "CheckersGame\\WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\CheckersGame\\WelcomeForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CheckersGame\\WelcomeForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:57:04.117Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\CheckersGame\\MainForm.cs",
+              "RelativeDocumentMoniker": "CheckersGame\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\CheckersGame\\MainForm.cs",
+              "RelativeToolTip": "CheckersGame\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:17:49.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\CheckersGame\\MainForm.cs",
+              "RelativeDocumentMoniker": "CheckersGame\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JuegoTablero4\\CheckersGame\\CheckersGame\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CheckersGame\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:08:04.556Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
