@@ -1,5 +1,7 @@
 # Juego de Damas - C#
 
+![Vista del juego](screenshots/juego_damas.png)
+
 Aplicación de escritorio desarrollada en C# utilizando Windows Forms que permite jugar una partida de damas mediante una interfaz gráfica interactiva.
 
 ## Características
