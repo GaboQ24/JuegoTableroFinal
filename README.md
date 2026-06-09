@@ -1,12 +1,17 @@
-# Checkers Game - C#
+# Juego de Damas - C#
 
-Juego de Damas Chinas desarrollado en C# utilizando Windows Forms como proyecto académico para aplicar conceptos de programación orientada a objetos, lógica de juego y desarrollo de interfaces gráficas.
+Aplicación de escritorio desarrollada en C# utilizando Windows Forms que permite jugar una partida de damas mediante una interfaz gráfica interactiva.
 
-## Descripción
+## Características
 
-Este proyecto implementa una versión digital del juego de Damas Chinas, permitiendo a los jugadores interactuar con el tablero mediante una interfaz gráfica desarrollada en Windows Forms.
-
-El objetivo del proyecto fue desarrollar habilidades en programación con C#, manejo de eventos, diseño de interfaces y aplicación de reglas de juego dentro de un entorno de escritorio.
+* Tablero visual de juego.
+* Fichas para ambos jugadores.
+* Sistema de turnos.
+* Temporizador individual para cada jugador.
+* Reinicio de partidas.
+* Historial de juego.
+* Ventana informativa "Acerca de".
+* Interfaz desarrollada con Windows Forms.
 
 ## Tecnologías Utilizadas
 
@@ -15,52 +20,28 @@ El objetivo del proyecto fue desarrollar habilidades en programación con C#, ma
 * Windows Forms
 * Visual Studio
 
-## Funcionalidades
+## Objetivo del Proyecto
 
-* Interfaz gráfica interactiva.
-* Representación visual del tablero.
-* Movimiento de fichas mediante selección del usuario.
-* Validación de movimientos según las reglas del juego.
-* Gestión de turnos.
-* Actualización dinámica del estado de la partida.
+Desarrollar una aplicación de escritorio aplicando conceptos de programación orientada a objetos, manejo de eventos, interfaces gráficas y lógica de juegos.
 
-## Objetivos de Aprendizaje
+## Competencias Aplicadas
 
-Durante el desarrollo de este proyecto se aplicaron conocimientos de:
-
-* Programación Orientada a Objetos (POO).
-* Manejo de eventos en Windows Forms.
-* Estructuras de datos.
-* Lógica de videojuegos.
-* Diseño de interfaces gráficas.
-* Resolución de problemas mediante programación.
-
-## Estructura del Proyecto
-
-```text
-CheckersGame
-│
-├── Properties
-├── Resources
-├── Formulario principal
-├── Lógica del juego
-└── Recursos gráficos
-```
+* Programación Orientada a Objetos (POO)
+* Desarrollo de interfaces gráficas
+* Gestión de eventos
+* Lógica de videojuegos
+* Control de estados
+* Temporizadores y manejo de tiempo
+* Diseño de aplicaciones de escritorio
 
 ## Cómo Ejecutar
 
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/GaboQ24/CheckersGame-CSharp.git
-```
-
-2. Abrir la solución (`.sln`) en Visual Studio.
-
+1. Clonar el repositorio.
+2. Abrir el archivo `.sln` en Visual Studio.
 3. Compilar y ejecutar el proyecto.
 
 ## Autor
 
 Gabriel Antonio Quesada Alpízar
 
-Estudiante de Bachillerato en Ingeniería en Sistemas Computacionales en la Universidad Tecnológica Costarricense (UTC).
+Estudiante de Bachillerato en Ingeniería en Sistemas Computacionales.
